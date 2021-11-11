@@ -1,4 +1,6 @@
-# styleflow2cartoon：基于styleflow+photo2cartoon实现2D捏脸
+# styleflow2cartoon
+
+# 基于styleflow+photo2cartoon实现2D捏脸
 
 ## Requirements
 
@@ -48,11 +50,15 @@ img_source = cv2.cvtColor(img_source, cv2.COLOR_BGR2RGB)
 streamlit run app_local.py
 ```
 
-## 参考论文：
+## 3.参考论文：
 
+[stylegan2-ada](./docs/2006.06676（stylegan2-ada）.pdf)
 
+[latend space](./docs/2104.09065（Surrogate Gradient Field for Latent Space Manipulation）.pdf)
 
+[styleflow](./docs/2008.02401v2（StyleFlow）.pdf)
 
+[photo2cartoon](./docs/2007.13332v1（photo2cartoon）.pdf)
 
 
 
