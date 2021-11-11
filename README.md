@@ -54,7 +54,7 @@ streamlit run app_local.py
 
 [stylegan2-ada](./docs/2006.06676（stylegan2-ada）.pdf)
 
-[latend space](./docs/2104.09065（Surrogate Gradient Field for Latent Space Manipulation）.pdf)
+[latend-space](./docs/2104.09065（Surrogate Gradient Field for Latent Space Manipulation）.pdf)
 
 [styleflow](./docs/2008.02401v2（StyleFlow）.pdf)
 
