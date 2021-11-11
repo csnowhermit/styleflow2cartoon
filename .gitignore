@@ -130,11 +130,6 @@ dmypy.json
 .idea/
 *.ipynb
 
-# weights
-*.pb
-*.pth
-*.pt
-
 dataset/photo2cartoon/
 experiment/
 models/*.pt
